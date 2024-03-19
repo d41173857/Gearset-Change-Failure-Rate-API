@@ -1,0 +1,13 @@
+﻿GitHub Repo,Deployment Pipeline (org),Job Name ,Pipeline ID,Environment ID
+DeVryEducationGroup / SFDC-AUC ,AUC Pipeline,AUC Full Sandbox Deploy,aa965641-b77b-4564-b49e-da72ff084d76,7f501c0e-9ec0-4141-9526-d65f1f79a785
+DeVryEducationGroup / SFDC-AUC ,AUC Pipeline,AUC Production,aa965641-b77b-4564-b49e-da72ff084d76,2c1b946b-2da2-4905-90eb-be937481124b
+DeVryEducationGroup / SFDC-Legacy,B2B Pipeline,B2B SFC QA Deploy,1b54bc78-06d3-4948-897c-af8103bb0371,a747b790-0848-4436-888a-e4a276568524
+DeVryEducationGroup / SFDC-Legacy,B2B Pipeline,B2B Production,1b54bc78-06d3-4948-897c-af8103bb0371,853e7ce0-2178-42d4-9e80-f87ac219d0bf
+DeVryEducationGroup / SFDC-Legacy,B2B Pipeline,B2B QA Deploy,1b54bc78-06d3-4948-897c-af8103bb0371,21d74e2c-d29a-43e1-9594-eeeafc906c81
+DeVryEducationGroup/SFDC-DMI,Ross Pipeline,Ross Full Sandbox Deploy,356b6498-1356-4b1b-a711-81b0f7f9d914,213704d6-bbe6-4238-81cb-791ec525ae66
+DeVryEducationGroup/SFDC-DMI,Ross Pipeline,Ross Production,356b6498-1356-4b1b-a711-81b0f7f9d914,f7fac71c-f378-4d8d-968b-ac85f8e58f41
+DeVryEducationGroup/Tempo-Salesforce,Tempo-Deploy Migration,TEMPO UAT DEPLOY,12c598ba-ae56-4fdd-bc24-45e74035f971,3a83ea85-c523-4cc3-8d59-56eb5d2a78eb
+DeVryEducationGroup/Tempo-Salesforce,Tempo-Deploy Migration,TEMPO STAGE DEPLOY,12c598ba-ae56-4fdd-bc24-45e74035f971,ebe39e27-30ea-423a-b087-7be003546aad
+DeVryEducationGroup/Tempo-Salesforce,Tempo-Deploy Migration,TEMPO PROD DEPLOY,12c598ba-ae56-4fdd-bc24-45e74035f971,71efe398-1416-43d7-99a9-d8256c10c175
+DeVryEducationGroup/SFDC-ATGE,WU SFC Deploy,WU SFCQA Deploy with UserPermissions,5f4b1edd-b8a7-494a-8bfe-e673dcc5ef05,8fcad0d5-308a-4274-94e8-6d35ad6fa839
+DeVryEducationGroup/SFDC-ATGE,WU SFC Deploy,WU SFC QA Validate,5f4b1edd-b8a7-494a-8bfe-e673dcc5ef05,e080ccca-19d7-4544-9dff-1f1b2dc7b446
